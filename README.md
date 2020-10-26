@@ -95,7 +95,8 @@ HP|	1 |	1 |	Жизнь только одна
 
 ## Gameplay map:
 
-![Gameplay map](https://github.com/inmovery/3D_Platformer/blob/main/Images/GameplayMap.jpg)
+![Gameplay map](https://github.com/inmovery/3D_Platformer/blob/main/Images/GameplayMap.jpg)  
+
 https://miro.com/welcomeonboard/eQpv6ZMDqFJMNgwFmp8Sw2n70EEa8LiFCyWijosIwsT2VvWXtLCDxvtJ0H3EVs4w
 
 **Все используемые в данной работе модели созданы вручную (в Figma и 3ds Max).**

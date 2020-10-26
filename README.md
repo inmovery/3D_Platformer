@@ -60,16 +60,16 @@ Colors
 
 ### Интерфейс игры, появляющийся при входе  
 
-![Окно](https://github.com/inmovery/3D_Platformer/blob/main/Images/StartGame.png)
+![Окно](https://github.com/inmovery/3D_Platformer/blob/main/Images/StartGame.jpg)
 
 ### Интерфейс игры на паузе
 
-![Окно](https://github.com/inmovery/3D_Platformer/blob/main/Images/Paused.png)
+![Окно](https://github.com/inmovery/3D_Platformer/blob/main/Images/Paused.jpg)
 
 ### Интерфейс окончания игры
 
 В игре сохраняется ваш лучший счет.  
-![Окно](https://github.com/inmovery/3D_Platformer/blob/main/Images/GameOver.png)
+![Окно](https://github.com/inmovery/3D_Platformer/blob/main/Images/GameOver.jpg)
 
 ## Level Design
 

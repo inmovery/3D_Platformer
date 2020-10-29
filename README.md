@@ -104,10 +104,11 @@ HP| 1 | 1 | Жизнь только одна
 
 https://miro.com/welcomeonboard/eH93vtJzq3tt2wVERfY0iryFXAUwDdjq1BQJu3kMPCz5X0CD29cxiVCstc9pZ0a2
 
-**Все используемые в данной работе модели созданы вручную (в Figma и 3ds Max).**
-Используемые источники:
+## Используемые источники
 1. https://www.cgtrader.com/items/643140
 2. https://www.cgtrader.com/items/867422
 3. https://www.cgtrader.com/items/2218661
 4. https://www.cgtrader.com/items/2372785
 5. https://www.cgtrader.com/items/831634
+6. Элементы, созданные в Figma (https://www.figma.com/file/DsfhGf5wWhv4OlIQV9jjAg/Assets)
+
